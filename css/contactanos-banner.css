@@ -1,0 +1,31 @@
+*{
+    font-family: 'Open Sans', sans-serif;     
+}
+.banner-contactanos{
+    width: 100%;
+    background: url(../img/banner/contactanos.jpeg);
+    background-attachment: fixed;
+    height: 400px;
+    background-size: cover;
+    position: relative;
+    margin-top: 71px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.banner-contactanos-opacidad{
+    position: absolute;
+    background: #000;
+    width: 100%;
+    height: 400px;
+    opacity: 0.5;
+    
+}
+.banner-contactanos-letras{
+    position: absolute;
+    color: white;    
+    text-align: center;
+    font-size: 35px;
+      font-family: 'Open Sans', sans-serif;
+}
+

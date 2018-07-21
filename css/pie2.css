@@ -1,0 +1,77 @@
+.footer-2{
+    display: none;
+}
+
+/*FOOTER 1*/
+.footer-1{
+ width: 100%;
+display: flex;
+}
+.logo-footer-1{
+    width: 25%;
+    text-align: center;
+}
+.logo-footer-1 img{
+    width: 150px;
+}
+.logo-footer-1 h3{
+font-size: 20px;
+}
+.sitemap-footer-1{
+    width: 25%;
+    padding-left: 80px;
+}
+.sitemap-footer-1 h3{
+    font-size: 20px;
+    padding-top: 10px;
+}
+
+.sitemap-footer-1 ul {
+    padding: 10px 0 0 25px;
+    margin: 0 0 0 29px;
+    background: url(../img/logos/barras-sitemap.png) no-repeat 0;
+}
+.sitemap-footer-1 a:link{
+    color: black;
+    text-decoration: none;
+}
+.sitemap-footer-1 a:active{
+    color: black;
+    text-decoration: none;
+}
+.sitemap-footer-1 a:visited{
+    color: black;
+    text-decoration: none;
+}
+
+
+.direcciones-footer-1{
+    width: 25%;
+}
+.direcciones-footer-1 h3{
+    font-size: 20px;
+    padding-bottom: 20px;
+    padding-top: 10px;
+}
+.direcciones-footer-1 ul{
+    padding: 0 0 0 45px;
+    margin: 0 0 0 px;
+    background: url(../img/logos/img-direcciones.png) no-repeat ;
+    background-size: 30px;
+    height: 130px;
+}
+.direcciones-footer-1 li{
+    padding-bottom: 17px;    
+}
+.siguenos-footer-1{
+    width: 25%;
+    text-align: center;
+}
+.siguenos-footer-1 h3{
+    font-size: 20px;
+    padding-bottom: 25px;
+    padding-top: 10px;
+}
+.siguenos-footer-1 img{
+    width: 50px;
+}

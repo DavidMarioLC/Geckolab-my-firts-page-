@@ -1,0 +1,102 @@
+/*MENU*/
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,700');
+@media(min-width:1200px){
+    .menu{
+        position: static;
+        width: auto;
+        height: auto;
+        transform: translateX(0%);
+        float: right;
+        display:flex;
+        background: white;
+        
+    }
+    .menu-link{
+    background: white;
+    display: inline-block;
+    line-height: 220%;
+    padding-right: 50px;
+    
+    box-sizing: border-box;
+        
+    }
+    .items{
+        
+     color: black;
+    font-weight: bold;
+        
+        
+    }
+    .items:hover{
+        background:  rgb(124,179,66);
+        color: white;
+        height: 70px;
+    }
+   
+     .cotiza {
+        background:rgb(243, 156, 18);
+        color: white;
+        padding: 5px;
+        font-weight: bold;
+        font-family: 'Open Sans', sans-serif;
+        border-radius: 5px 5px 5px 5px;
+    }
+    
+    .cotiza:hover{
+        background:  rgb(124,179,66);
+    }
+    
+    .contenedor label{
+        display: none;
+    }
+
+   
+    
+   
+}
+@media screen and (max-width: 1500px){
+    .pedir a{
+    
+   display:none;
+
+}
+.pagination li{
+	display: none;
+  
+}
+
+
+/*SLIDER*/
+
+@media screen and (max-width: 600px){
+	.slider .caption p{
+		display: none;
+	}
+
+	.slider .caption h1{
+		font-size: 35px;
+	}
+
+	.left, .right{
+		font-size: 30px;
+	}
+
+	.slider li img{
+		width: 600px;
+	}
+
+	.pagination{
+		display: none;
+	}
+   
+    
+    .servicio-principal{
+        width: 100%;
+    }
+}
+
+
+
+/*llamame*/
+
+

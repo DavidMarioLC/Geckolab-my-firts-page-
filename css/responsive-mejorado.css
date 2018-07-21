@@ -1,0 +1,804 @@
+@media only screen and (min-width: 320px) and (max-width: 479px){ 
+.slider .caption h1{
+	font-size: 24px;
+    }
+.slider .caption p{
+	display: none;
+    }
+/*servicio-inicio*/
+.contenedor-servicio-principal{
+    margin-top: 80px;
+    display: flex;
+    flex-direction: column;
+    }
+.servicio-principal-items{
+    width: 100%;
+    }  
+    
+ /*servicio-fin*/ 
+
+    /*inputs-llamame*/
+ .llamame-items input{
+   width: 70%;
+     
+    
+}
+/*inputs-llamame-fin*/
+    
+/*servicio-secundario-inicio*/
+.servicio-secundario-items{
+    width: 100%;
+       
+    } 
+/*servicio-secundario-fin*/
+
+/*info-inicio*/
+
+.contenedor-info{
+    flex-direction: column;
+    }
+.contenedor-info-detalles{
+    width: 100%;
+   
+    }
+/*info-ifinal*/
+
+/*banner-proyecto-inicio*/    
+.proyecto-letra h2{
+    font-size: 25px;
+margin-bottom: 40px;
+}
+/*banner-proyecto-final*/
+/*contacto-inicio*/
+.contenedor-formulario-contactanos{
+  width: 100%; 
+ flex-direction: column;
+ align-items: center;
+ justify-content: center;
+ 
+    }
+    .formulario{
+        width: 100%;
+        padding: 0;
+      ;
+    }
+.formulario input[type="text"]{
+        width: 90%;
+    
+    } 
+.formulario textarea{
+    
+    width: 90%;
+}
+.formulario input[type="submit"]{
+   width: 91%;
+   
+ 
+}
+
+.contactanos{
+width: 100%;
+text-align: center;
+padding: 20px;
+}
+.contactanos h2{
+    font-size: 25px;
+}
+
+.contactanos-items-ubicacion{
+ width: 100%;   
+flex-direction: column;
+text-align: center;
+margin: 10px;
+margin-bottom: 50px;
+}
+.contactanos-items-ubicacion h3{
+font-size: 20px;
+padding-top: 10px;
+}
+
+.contactanos-items-telefono{
+ width: 100%;   
+flex-direction: column;
+text-align: center;  
+margin: 10px;
+margin-bottom: 50px;
+}
+.contactanos-items-telefono h3{
+padding-top: 10px;    
+font-size: 20px;
+}
+
+.contactanos-items-correo{
+ width: 100%;   
+flex-direction: column;
+text-align: center;
+margin:0px;
+margin-bottom: 50px;
+}
+.contactanos-items-correo h3{
+padding-left: 0;
+font-size: 20px;
+padding-top: 10px;
+}
+/*contacto-final*/
+/*footer-inicio*/
+.footer-2{
+    display: block;
+    width: 100%;
+    text-align: center;
+}
+.redes-sociales h2{
+    padding-top: 15px;
+    padding-bottom: 20px;
+    
+}
+.redes-sociales img{
+    width: 50px;
+    padding-bottom: 25px;
+    margin-right: 15px;
+}
+
+.division-footer2{
+    width: 100%;
+    height: 2px;
+}
+
+.logo-footer-2 img{
+    width: 200px;
+}
+.logo-footer-2 h3{
+    padding-bottom: 15px;
+    font-size: 20px;
+}
+    .footer-1{
+        display: none;
+    }
+/*footer-final*/
+/*nosotros-info*/    
+    .nosotros{ 
+        flex-direction: column;
+        
+    }
+    .nosotros-img{
+     100%;
+    }
+    .nosotros-img img{
+     width: 300px;
+    height: 300px;
+    }
+    .nosotros-info{
+        width: 100%;
+        
+        
+    }
+      .nosotros-info h2{
+        width: 100%;
+        text-align: center;
+        font-size: 25px;
+    }
+    .nosotros-info p{
+        text-align: center;
+        padding: 20px;
+        box-sizing: border-box;
+        font-size: 20px;
+    }
+      .nosotros-info h4{
+        width: 100%;
+        text-align: center;
+        font-size: 25px;
+        
+    }  
+/*nosotros-info-final*/
+
+/*virtudes-star*/ 
+    .virtudes{
+        width: 100%;
+        flex-direction: column;
+    }
+      .virtudes-items{
+        width: 100%;
+        padding: 15px;
+    }
+/*visrtudes-end*/
+
+/*team-star*/
+.equipo{
+flex-direction: column;
+padding-top: 15px;
+   
+}
+
+.equipo-miembro{
+   width: 100%;
+    padding: 40px;
+} 
+    
+/*team-star-end*/  
+.nosotros-opacar{
+    width: 100%;
+}
+/*frase-servicios-star*/
+.banner-servicio-letra h2{
+   font-size: 25px;
+    padding-left: 15px;
+    
+}
+    
+    
+/*servicios-items-inicio*/
+
+    .servicios-items{
+        width: 100%;
+        text-align: center;
+    }
+    .servicios-items-img{
+        width: 100%;
+    }
+    .servicios-items-img img{
+        width: 350px;
+        padding: 15px;
+    }
+    .servicios-atributos{
+        flex-direction: column;
+    }
+    .atributos-items{
+        width: 100%;
+        text-align: center;
+        
+    }
+/*servicios-items-end*/
+    
+/*contactanos-pagina*/
+.banner-contactanos-letras{
+    font-size: 24px;
+}
+/*contactanos-pagina-end*/
+    .banner-cotizar-letras{
+        font-size: 30px;
+        text-align: center;
+    }
+}
+
+@media only screen and (min-width: 480px) and (max-width: 767px){ 
+.slider .caption h1{
+	font-size: 24px;
+    }
+.slider .caption p{
+	display: none;
+    }
+/*servicio-inicio*/
+.contenedor-servicio-principal{
+    display: flex;
+    flex-direction: column;
+    }
+.servicio-principal-items{
+    width: 100%;
+    }    
+ /*servicio-fin*/ 
+    
+/*servicio-secundario-inicio*/
+.servicio-secundario-items{
+    width: 100%;
+       
+    }    
+/*servicio-secundario-fin*/
+
+/*inicio-inicio*/   
+.contenedor-info{
+    flex-direction: column;
+    }
+.contenedor-info-detalles{
+    width: 100%;
+   
+    }
+/*inicio-fin*/ 
+    
+/*banner-proyecto-inicio*/
+.proyecto-letra h2{
+    font-size: 28px;
+    
+}
+/*banner-proyecto-final*/
+/*contacto-inicio*/
+.contenedor-formulario-contactanos{
+  width: 100%; 
+ flex-direction: column;
+ align-items: center;
+ justify-content: center;
+ 
+}
+.formulario{
+        width: 100%;
+    }
+.formulario input[type="text"]{
+        width: 100%;
+    } 
+.formulario textarea{
+    
+    width: 100%;
+}
+.formulario input[type="submit"]{
+   width: 100%;
+   
+ 
+}
+    
+
+.contactanos{
+   width: 100%;
+  
+}
+
+.contactanos-items-ubicacion{
+ width: 100%;   
+flex-direction: column;
+text-align: center;
+}
+
+.contactanos-items-telefono{
+ width: 100%;   
+flex-direction: column;
+text-align: center;  
+
+}
+
+.contactanos-items-correo{
+ width: 100%;   
+flex-direction: column;
+text-align: center;
+
+}
+/*contacto-final*/
+/*footer-inicio*/
+.footer-2{
+    display: block;
+    width: 100%;
+    text-align: center;
+}
+.redes-sociales h2{
+    padding-top: 15px;
+    padding-bottom: 20px;
+    
+}
+.redes-sociales img{
+    width: 50px;
+    padding-bottom: 25px;
+    margin-right: 15px;
+}
+
+.division-footer2{
+    width: 100%;
+    height: 2px;
+}
+
+.logo-footer-2 img{
+    width: 200px;
+}
+.logo-footer-2 h3{
+    padding-bottom: 15px;
+    font-size: 20px;
+}
+    .footer-1{
+        display: none;
+    }
+/*footer-final*/
+    
+ /*nosotros-info-inicio*/    
+    .nosotros{ 
+        flex-direction: column;
+        
+    }
+    .nosotros-img{
+    width: 100%;
+    }
+    .nosotros-info{
+        width: 100%;
+        
+        
+    }
+      .nosotros-info h2{
+        width: 100%;
+        text-align: center;
+        
+    }
+    .nosotros-info p{
+        text-align: center;
+        padding: 20px;
+        box-sizing: border-box;
+    }
+      .nosotros-info h4{
+        width: 100%;
+        text-align: center;
+        
+    } 
+/*nosotros-info-final*/ 
+/*virtudes-star*/ 
+    .virtudes{
+        width: 100%;
+        flex-direction: column;
+    }
+      .virtudes-items{
+        width: 100%;
+        
+    }
+/*visrtudes-end*/
+    
+/*team-star*/
+.equipo{
+flex-direction: column;
+padding-top: 15px;
+   
+}
+
+.equipo-miembro{
+   width: 100%;
+    padding: 40px;
+} 
+    
+/*team-star-end*/   
+
+    
+/*servicios-items-inicio*/
+
+    .servicios-items{
+        width: 100%;
+    }
+    .servicios-items-img{
+        width: 100%;
+    }
+    
+    .servicios-items-img img{
+        width: 350px;
+        padding: 15px;
+    }
+    
+    .servicios-atributos{
+        flex-direction: column;
+    }
+    .atributos-items{
+        width: 100%;
+        text-align: center;
+        
+    }
+/*servicios-items-end*/
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991px){
+
+.slider .caption h1{
+	font-size: 24px;
+    }
+.slider .caption p{
+	display: none;
+    }
+/*servicio-inicio*/
+.contenedor-servicio-principal{
+        display: flex;
+        flex-direction: column;
+    }
+.servicio-principal-items{
+        width: 50%;
+    }
+ /*servicio-fin*/
+    
+/*servicio-secundario-inicio*/    
+.servicio-secundario-items{
+    width: 50%;
+       
+    }
+/*servicio-secundario-fin*/
+
+/*info-inicio*/
+.contenedor-info{
+    flex-direction: column;
+    }
+.contenedor-info-detalles{
+    width: 100%;
+   
+    }
+/*info-final*/
+
+    /*banner-proyecto-incio*/
+.proyecto-letra h2{
+    font-size: 25px;
+}   
+    /*banner-proyecto-final*/
+
+/*contacto-inicio*/
+.contenedor-formulario-contactanos{
+ width: 100%; 
+ flex-direction: column;
+ align-items: center;
+ justify-content: center;
+ 
+}
+.formulario{
+        width: 100%;
+    }
+
+.formulario input[type="text"]{
+        width: 100%;
+    } 
+.formulario textarea{
+    
+    width: 100%;
+}
+.formulario input[type="submit"]{
+   width: 100%;
+   
+ 
+}
+.contactanos{
+   width: 100%;
+  
+}
+
+.contactanos-items-ubicacion{
+ width: 100%;   
+flex-direction: column;
+text-align: center;
+}
+
+.contactanos-items-telefono{
+ width: 100%;   
+flex-direction: column;
+text-align: center;  
+
+}
+
+.contactanos-items-correo{
+ width: 100%;   
+flex-direction: column;
+text-align: center;
+
+}
+
+/*contacto-final*/
+/*footer-inicio*/
+.footer-2{
+    display: block;
+    width: 100%;
+    text-align: center;
+}
+.redes-sociales h2{
+    padding-top: 15px;
+    padding-bottom: 20px;
+    
+}
+.redes-sociales img{
+    width: 50px;
+    padding-bottom: 25px;
+    margin-right: 15px;
+}
+
+.division-footer2{
+    width: 100%;
+    height: 2px;
+}
+
+.logo-footer-2 img{
+    width: 200px;
+}
+.logo-footer-2 h3{
+    padding-bottom: 15px;
+    font-size: 20px;
+}
+    .footer-1{
+        display: none;
+    }
+/*footer-final*/
+/*nosotros-info-inicio*/
+    .nosotros{ 
+        flex-direction: column;
+        
+    }
+    .nosotros-img{
+    width: 100%;
+    }
+    .nosotros-info{
+        width: 100%;
+        
+        
+    }
+      .nosotros-info h2{
+        width: 100%;
+        text-align: center;
+        
+    }
+    .nosotros-info p{
+        text-align: center;
+        padding: 20px;
+        box-sizing: border-box;
+    }
+      .nosotros-info h4{
+        width: 100%;
+        text-align: center;
+        
+    }
+/*nosotros-info-final*/ 
+    
+/*team-star*/
+.equipo{
+flex-direction: column;
+padding-top: 15px;
+   
+}
+
+.equipo-miembro{
+   width: 100%;
+    padding: 40px;
+} 
+    
+/*team-star-end*/
+    
+/*servicios-items-inicio*/
+
+    .servicios-items{
+        width: 100%;
+        text-align: center;
+    }
+    .servicios-items-img{
+        width: 100%;
+    }
+    .servicios-atributos{
+        flex-direction: column;
+    }
+    .atributos-items{
+        width: 100%;
+        text-align: center;
+        
+    }
+/*servicios-items-end*/
+}
+
+@media only screen and (min-width: 992px) and (max-width: 1200px){
+
+
+.slider .caption h1{
+	font-size: 24px;
+    }
+.slider .caption p{
+	display: none;
+    }
+/*servicio-inicio*/
+.contenedor-servicio-principal{
+    display: flex;
+    flex-direction: column;
+    flex-flow:wrap;
+    }
+.servicio-principal-items{
+     width: 45%;
+ 
+    
+    }
+/*servicio-fin*/   
+    
+/*servicio-secundario-inicio*/
+.servicio-secundario-items{
+    width: 50%;
+    
+    
+}
+/*servicio-secundario-fin*/
+
+/*proyecto-inicio*/    
+.proyecto-letra h2{
+    font-size: 28px;
+    
+}
+/*proyecto-final*/ 
+/*contacto-inicio*/
+.contenedor-formulario-contactanos{
+  width: 100%; 
+ flex-direction: column;
+ align-items: center;
+ justify-content: center;
+ 
+    }
+    .formulario input[type="text"]{
+        width: 100%;
+    } 
+.formulario textarea{
+    
+    width: 100%;
+}
+.formulario input[type="submit"]{
+   width: 100%;
+   
+ 
+}
+    
+/*UBICACION*/    
+
+.contactanos{
+   width: 100%;
+  
+}
+
+.contactanos-items-ubicacion{
+ width: 100%;   
+flex-direction: column;
+text-align: center;
+}
+
+.contactanos-items-telefono{
+ width: 100%;   
+flex-direction: column;
+text-align: center;  
+
+}
+
+.contactanos-items-correo{
+ width: 100%;   
+flex-direction: column;
+text-align: center;
+
+}
+/*contacto-final*/
+/*footer-inicio*/    
+.footer-2{
+    display: block;
+    width: 100%;
+    text-align: center;
+}
+.redes-sociales h2{
+    padding-top: 15px;
+    padding-bottom: 20px;
+    
+}
+.redes-sociales img{
+    width: 50px;
+    padding-bottom: 25px;
+    margin-right: 15px;
+}
+
+.division-footer2{
+    width: 100%;
+    height: 2px;
+}
+
+.logo-footer-2 img{
+    width: 200px;
+}
+.logo-footer-2 h3{
+    padding-bottom: 15px;
+    font-size: 20px;
+}
+    .footer-1{
+        display: none;
+    }
+/*footer-final*/
+/*team-star*/
+.equipo{
+flex-direction: column;
+padding-top: 15px;
+   
+}
+
+.equipo-miembro{
+   width: 100%;
+    padding: 40px;
+} 
+    
+/*team-star-end*/ 
+    
+/*servicios-items-inicio*/
+
+    .servicios-items{
+        text-align: center;
+        width: 100%;
+    }
+    .servicios-items-img{
+        width: 100%;
+    }
+/*servicios-items-end*/
+    
+}
+
+
+
+
+
+
+

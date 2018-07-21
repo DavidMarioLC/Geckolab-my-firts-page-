@@ -1,0 +1,17 @@
+.contenedor-servicio-principal{
+    width: 100%;
+    margin-top: 200px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    
+}
+.servicio-principal-items{
+    width: 20%;
+    margin: 0 auto;
+    padding: 15px;
+    
+}
+.servicio-principal-items img{
+    width: 150px;
+}

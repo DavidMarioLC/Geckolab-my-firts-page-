@@ -1,0 +1,19 @@
+.contenedor-servicio-secundario{
+    width: 100%;
+    display: flex;
+    margin: 0 auto;
+    text-align: center;
+    justify-content: center;
+    flex-direction: column;
+    flex-flow: wrap;
+    
+    
+}
+.servicio-secundario-items{
+    width: 33.333%;
+    padding: 40px;
+    
+}
+.servicio-secundario-items img{
+    width: 150px;
+}

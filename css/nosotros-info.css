@@ -1,0 +1,39 @@
+
+
+.nosotros{
+    margin-top: 120px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   font-family: 'Open Sans', sans-serif; 
+}
+.nosotros-img{
+    width: 50%;
+    display:flex;
+    justify-content: center;
+    margin: 0 auto;
+}
+
+.nosotros-info{
+width: 50%;
+
+margin: 0 auto;
+margin: 0 auto;
+    
+}
+.nosotros-info h2{
+    font-size: 50px;
+    font-weight: bold;
+        text-align: left; 
+}
+.nosotros-info h4{
+    font-size: 50px;
+    font-weight: bold;
+    text-align: left;
+    padding-top: 50px;
+}
+.nosotros-info p{
+    font-size: 26px;
+    text-align: left;    
+}

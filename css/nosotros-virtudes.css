@@ -1,0 +1,20 @@
+.virtudes{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin: 0 auto;
+    background: rgb(124,179,66);
+    
+}
+.virtudes-items{
+    width: 33.333%;
+    margin: 0 auto;
+    padding: 15px;
+    color: white;
+    font-family: 'Open Sans', sans-serif;
+    padding: 20px 5px 20px 5px;
+}
+.virtudes-items img{
+    width: 150px;
+}

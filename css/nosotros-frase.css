@@ -1,0 +1,37 @@
+.nosotros-frase{
+    width: 100%;
+    background: url(../img/banner/people-woman-coffee-meeting.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    height:400px;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+    
+}
+.nosotros-opacar{
+    position: absolute; 
+    width: 90%;
+    background: #000;
+    height: 300px;
+   opacity: 0.5;
+}
+.nosotros-frase-letra {
+    z-index: 300;
+    color: white;
+    position: absolute;
+    top:40;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.nosotros-frase-letra h2{
+    color: white;
+    position: absolute;
+   
+    
+    
+}

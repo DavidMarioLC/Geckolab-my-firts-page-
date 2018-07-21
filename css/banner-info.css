@@ -1,0 +1,21 @@
+.contenedor-info{
+    width: 100%;
+    margin: 0 auto;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    background: #E4E7EC;
+}
+.contenedor-info-detalles{
+    width: 33.333%;
+    padding: 50px;
+}
+.contenedor-info-detalles h2{
+    color: #71AA1B;
+}
+.contenedor-info-detalles h3{
+    color: #767777;
+}
+.contenedor-info-detalles h2,h3{
+    font-size: 30px;
+}
